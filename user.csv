@@ -1,4 +1,4 @@
-Nome,Curso,Categoria,Tipo
-Bruno Bandelli,Formação Node.js,Node.js,1
-Carlos Bandell,Formação React.js,React.js,6
-Bandelli,Formação Angular,Angular,4
+Nome,Curso,Categoria,Tipo,Id
+Bruno Bandelli,Formação Node.js,Node.js,1,0
+Carlos Bandell,Formação React.js,React.js,6,1
+Bandelli,Formação Angular,Angular,4,2
